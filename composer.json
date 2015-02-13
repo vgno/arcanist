@@ -1,0 +1,16 @@
+{
+    "name": "vgno/arcanist",
+    "description": "VG's fork of Arcanist",
+    "require-dev": {
+        "deployer/deployer": "~2.0"
+    },
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Erland Wiencke",
+            "email": "erland.wiencke@vg.no"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
